@@ -9,4 +9,4 @@ The 2FAOTP application is mostly written in PHP. The file structure is as follow
 | home.php     | This is the home page where authorized users are able to see a greeting message, personalized with their username.                                                                                                                                             |
 | mailer.php   | This script is meant to help you if your PHPMailer code is not working properly. It is not a part of the 2FA OTP web application.                                                                                                                              |
 | accounts.sql | This is the schema for the database in our application. You can either run it as a SQL statement within your MySQL session in a terminal or use phpmyadmin and import it from there.
-|
+
