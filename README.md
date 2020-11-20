@@ -1,5 +1,5 @@
 # Two-Factor Authentication One-Time Password (2FAOTP) PHP Web Application
-###Code inspired by https://codeshack.io/secure-login-system-php-mysql/#authenticatinguserswithphp
+### Code inspired by https://codeshack.io/secure-login-system-php-mysql/#authenticatinguserswithphp
 
 The 2FAOTP application is mostly written in PHP. The file structure is as follows:
 | index.php    | The login page users first see when using the 2FA OTP web application. It is where the user can log in, have an OTP code generate and then sent via the email address provided during registration.                                                            |
